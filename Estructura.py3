@@ -7,11 +7,6 @@ import sys as n
 import time as mm
 
 from io import open
-te_texto=open("smt")
-texto=te_texto.read()
-te_texto.close()
-
-from io import open
 te_texto=open("logo2.txt","r")
 texto=te_texto.read()
 te_texto.close()
